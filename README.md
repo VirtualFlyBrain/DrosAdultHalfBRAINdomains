@@ -45,7 +45,7 @@ This archive supplements the above study by providing essential raw image data. 
 > 512 x 512 pixels x 135 sections
 > 
 > Amira labelfield files of the landmark fiber bundles defined in the Systematic Nomenclature. Voxel size as above.
- 
+>  
 > Note: One can open Amira labelfield files with ImageJ as well as Amira software (Mercury Inc.)
 
 5. readme.txt
