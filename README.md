@@ -18,19 +18,19 @@ This archive supplements the above study by providing essential raw image data. 
 > This was derived from the original tiff format (not available here): 
 > InsectBrainNomenclature_tricolor_1024.zip (250 MB)
 > 1024 x 1024 pixels x 135 sections (ZIP-compressed archive of a folder containing 135 images)
->
->Original TIFF image files of the serial sections of a Drosophila melanogaster brain that is tricolor-labeled with the combination of the following reporters:
+> 
+> Original TIFF image files of the serial sections of a Drosophila melanogaster brain that is tricolor-labeled with the combination of the following reporters:
 > - cytoplasmic DsRed (UAS-DsRed; Verkhusha et al., 2001; red channel), 
 > - presynaptic GFP (synaptic-vesicles-targeted UAS-n-syb-GFP; Estes et al., 2000; green channel), 
 > - postsynaptic Rdl-hemagglutinin (GABA-receptor-targeted UAS-Rdl-HA; Sanchez-Soriano et al., 2005; blue channel). 
 > They are expressed with the pan-neuronal elav-GAL4 expression driver (C155; Lin and Goodman, 1994).
 >
->The image was acquired using a confocal laser-scanning microscope LSM510 (Zeiss) with a 40x water-immersion C-Apochromat objective (n.a. = 1.2). Each section was recorded with the resolution of 1024 x 1024 pixels and 1.41-um optical z-slice steps. Consequently, the xyz voxel size of the image stack is 0.32 um by 0.32 um by 1.41 um. 
->
->Note that, because of the excess amount of ectopic protein expression, the presynaptic and postsynaptic labeling (especially the latter) is not completely specific, visualizing not only synaptic sites but also cell bodies and large fiber bundles.
+> The image was acquired using a confocal laser-scanning microscope LSM510 (Zeiss) with a 40x water-immersion C-Apochromat objective (n.a. = 1.2). Each section was recorded with the resolution of 1024 x 1024 pixels and 1.41-um optical z-slice steps. Consequently, the xyz voxel size of the image stack is 0.32 um by 0.32 um by 1.41 um. 
+> 
+> Note that, because of the excess amount of ectopic protein expression, the presynaptic and postsynaptic labeling (especially the latter) is not completely specific, visualizing not only synaptic sites but also cell bodies and large fiber bundles.
 
-Lower resolution copy not used by VFB and hance not included
-> 2. InsectBrainNomenclature_tricolor_512.zip (65 MB) 
+
+2. InsectBrainNomenclature_tricolor_512.zip (65 MB) - Lower resolution copy not used by VFB and hance not included
 > 512 x 512 pixels x 135 sections (ZIP-compressed archive of a folder containing 135 images)
 >
 > Down-sampled version of the above files, which should be used together with the following .am files.
