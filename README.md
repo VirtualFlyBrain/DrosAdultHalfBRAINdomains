@@ -12,43 +12,48 @@ Kei Ito, Kazunori Shinomiya, Masayoshi Ito, J. Douglas Armstrong, George Boyan, 
 Neuron 81, 755-765 (2014)
 http://dx.doi.org/10.1016/j.neuron.2013.12.017
 
-This archive supplements the above study by providing essential raw image data. It contains the following five files:
+This archive supplements the above study by providing essential raw image data. It contains the following files:
 
-1. InsectBrainNomenclature_tricolor_1024.zip (250 MB)
-1024 x 1024 pixels x 135 sections (ZIP-compressed archive of a folder containing 135 images)
+1. tricoloranterior1024.tif_[red/green/blue].nrrd inside the template directory
+> This was derived from the original tiff format (not available here): 
+> InsectBrainNomenclature_tricolor_1024.zip (250 MB)
+> 1024 x 1024 pixels x 135 sections (ZIP-compressed archive of a folder containing 135 images)
+>
+>Original TIFF image files of the serial sections of a Drosophila melanogaster brain that is tricolor-labeled with the combination of the following reporters:
+> - cytoplasmic DsRed (UAS-DsRed; Verkhusha et al., 2001; red channel), 
+> - presynaptic GFP (synaptic-vesicles-targeted UAS-n-syb-GFP; Estes et al., 2000; green channel), 
+> - postsynaptic Rdl-hemagglutinin (GABA-receptor-targeted UAS-Rdl-HA; Sanchez-Soriano et al., 2005; blue channel). 
+> They are expressed with the pan-neuronal elav-GAL4 expression driver (C155; Lin and Goodman, 1994).
+>
+>The image was acquired using a confocal laser-scanning microscope LSM510 (Zeiss) with a 40x water-immersion C-Apochromat objective (n.a. = 1.2). Each section was recorded with the resolution of 1024 x 1024 pixels and 1.41-um optical z-slice steps. Consequently, the xyz voxel size of the image stack is 0.32 um by 0.32 um by 1.41 um. 
+>
+>Note that, because of the excess amount of ectopic protein expression, the presynaptic and postsynaptic labeling (especially the latter) is not completely specific, visualizing not only synaptic sites but also cell bodies and large fiber bundles.
 
-Original TIFF image files of the serial sections of a Drosophila melanogaster brain that is tricolor-labeled with the combination of the following reporters:
-- cytoplasmic DsRed (UAS-DsRed; Verkhusha et al., 2001; red channel), 
-- presynaptic GFP (synaptic-vesicles-targeted UAS-n-syb-GFP; Estes et al., 2000; green channel), 
-- postsynaptic Rdl-hemagglutinin (GABA-receptor-targeted UAS-Rdl-HA; Sanchez-Soriano et al., 2005; blue channel). 
-They are expressed with the pan-neuronal elav-GAL4 expression driver (C155; Lin and Goodman, 1994).
+Lower resolution copy not used by VFB and hance not included
+> 2. InsectBrainNomenclature_tricolor_512.zip (65 MB) 
+> 512 x 512 pixels x 135 sections (ZIP-compressed archive of a folder containing 135 images)
+>
+> Down-sampled version of the above files, which should be used together with the following .am files.
+> The xyz voxel size of the image stack is 0.64 um by 0.64 um by 1.41 um. 
 
-The image was acquired using a confocal laser-scanning microscope LSM510 (Zeiss) with a 40x water-immersion C-Apochromat objective (n.a. = 1.2). Each section was recorded with the resolution of 1024 x 1024 pixels and 1.41-um optical z-slice steps. Consequently, the xyz voxel size of the image stack is 0.32 um by 0.32 um by 1.41 um. 
-
-Note that, because of the excess amount of ectopic protein expression, the presynaptic and postsynaptic labeling (especially the latter) is not completely specific, visualizing not only synaptic sites but also cell bodies and large fiber bundles.
-
-2. InsectBrainNomenclature_tricolor_512.zip (65 MB) 
-512 x 512 pixels x 135 sections (ZIP-compressed archive of a folder containing 135 images)
-
-Down-sampled version of the above files, which should be used together with the following .am files.
-The xyz voxel size of the image stack is 0.64 um by 0.64 um by 1.41 um. 
-
-3. InsectBrainNomenclature_neuropil.am (3.9 MB)
-512 x 512 pixels x 135 sections
-
-Amira labelfield files of the synapse-rich neuropils defined in the Systematic Nomenclature. Voxel size as above.
+3. InsectBrainNomenclature_neuropil.am (3.9 MB) avaiable under the combinedIndexFiles directory.
+> 512 x 512 pixels x 135 sections
+> 
+> Amira labelfield files of the synapse-rich neuropils defined in the Systematic Nomenclature. Voxel size as above.
 
 4. InsectBrainNomenclature_fiber_bundle.am (1.7 MB)
-512 x 512 pixels x 135 sections
-
-Amira labelfield files of the landmark fiber bundles defined in the Systematic Nomenclature. Voxel size as above.
-
-Note: One can open Amira labelfield files with ImageJ as well as Amira software (Mercury Inc.)
+> 512 x 512 pixels x 135 sections
+> 
+> Amira labelfield files of the landmark fiber bundles defined in the Systematic Nomenclature. Voxel size as above.
+ 
+> Note: One can open Amira labelfield files with ImageJ as well as Amira software (Mercury Inc.)
 
 5. readme.txt
-This document.
+> original ref document included with files.
 
-The files 2, 3 and 4 will be useful for spatially matching the defined volumes of synapse-rich neuropils and landmark fiber bundles with the images of other brain samples using three-dimensional registration software such as Computational Morphometry Toolkit (Jefferis et al., 2007) or Brain-Aligner (Peng et al., 2011). The green channel of the BrainName_tricolor_512 images (UAS-n-syb-GFP) resembles the labeling pattern of the anti-Bruchpilot nc82 antibody (Wagh et al., 2006) that is used widely for background labeling of brain samples. By comparing UAS-n-syb-GFP images and nc82 images, one can use the provided image files as a target template onto which your own image data would be morphed and registered, or alternatively, morph the provided image files to any target templates used for your own particular study. 
+6. refData / [neuropil/tract]_domain_data.tsv give the index numbers against FlyBase references for numbered domain files and combined index files.
+
+> Original Note: The files 2, 3 and 4 will be useful for spatially matching the defined volumes of synapse-rich neuropils and landmark fiber bundles with the images of other brain samples using three-dimensional registration software such as Computational Morphometry Toolkit (Jefferis et al., 2007) or Brain-Aligner (Peng et al., 2011). The green channel of the BrainName_tricolor_512 images (UAS-n-syb-GFP) resembles the labeling pattern of the anti-Bruchpilot nc82 antibody (Wagh et al., 2006) that is used widely for background labeling of brain samples. By comparing UAS-n-syb-GFP images and nc82 images, one can use the provided image files as a target template onto which your own image data would be morphed and registered, or alternatively, morph the provided image files to any target templates used for your own particular study. 
 
 References
 
