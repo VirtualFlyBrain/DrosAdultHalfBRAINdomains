@@ -1,0 +1,103 @@
+domainId	domainCentre	domainColour	abbv	oboId	VFBid	name	
+1	"184.85,284.092,46.1711"		AME	FBbt_00045003	VFB_00030787	accessory medulla	
+2	"190.372,294.943,79.0382"		LO	FBbt_00003852	VFB_00030788	lobula	
+3	"450.263,212.817,60.6433"		NO	FBbt_00003680	VFB_00030789	nodulus	
+4	"366.67,145.819,54.723"		BU	FBbt_00003682	VFB_00030790	bulb	
+5	"420.529,153.152,102.884"		PB	FBbt_00003668	VFB_00030791	protocerebral bridge	
+6	"223.779,126.652,80.5163"		LH	FBbt_00007053	VFB_00030792	lateral horn	
+7	"388.469,205.731,43.8005"		LAL	FBbt_00003681	VFB_00030793	lateral accessory lobe	
+8	"406.405,345.947,52.2054"		SAD	FBbt_00045048	VFB_00030794	saddle	
+9	"444.987,311.928,69.2182"		CAN	FBbt_00045051	VFB_00030795	cantle	
+10	"361.701,314.027,39.9043"		AMMC_AN	FBbt_00003982	VFB_00030796	antennal mechanosensory and motor center	
+11	"347.88,171.705,77.7845"		ICL	FBbt_00040049	VFB_00030797	inferior clamp	
+12	"443.385,273.023,56.1706"		VES	FBbt_00040041	VFB_00030798	vest	
+13	"442.024,202.791,92.218"		IB	FBbt_00040050	VFB_00030799	inferior bridge	
+14	"433.569,136.392,93.6217"		ATL	FBbt_00045039	VFB_00030800	antler	
+15	"418.181,130.054,36.6796"		CRE	FBbt_00045037	VFB_00030801	crepine	
+16	"318.493,149.782,64.1247"		MB_PED	FBbt_00007453	VFB_00030802	pedunculus of adult mushroom body	
+17	"346.111,71.338,50.1206"		MB_V_lobes	FBbt_00015407	VFB_00030803	vertical lobe of adult mushroom body	
+18	"431.51,127.656,36.9095"		MB_M_lobes	FBbt_00007677	VFB_00030804	medial lobe of adult mushroom body	
+19	"450.134,314.737,43.5371"		FLA	FBbt_00045050	VFB_00030805	flange	
+20	"305.177,95.9576,96.5922"		MB_ACA	FBbt_00045007	VFB_00030806	mushroom body accessory calyx	
+21	"146.017,333.548,92.2636"		LOP	FBbt_00003885	VFB_00030807	lobula plate	
+22	"450.731,155.093,54.2191"		EB	FBbt_00003678	VFB_00030808	ellipsoid body	
+23	"430.088,220.338,22.1163"		AL	FBbt_00007401	VFB_00030809	adult antennal lobe	
+24	"88.8417,315.321,65.0381"		ME	FBbt_00003748	VFB_00030810	medulla	
+25	"444.393,153.23,71.5638"		FB	FBbt_00003679	VFB_00030811	fan-shaped body	
+26	"282.261,74.0494,74.0789"		SLP	FBbt_00007054	VFB_00030812	superior lateral protocerebrum	
+27	"339.275,78.5317,58.7331"		SIP	FBbt_00045032	VFB_00030813	superior intermediate protocerebrum	
+28	"433.288,76.8524,65.6932"		SMP	FBbt_00007055	VFB_00030814	superior medial protocerebrum	
+29	"276.19,222.943,40.3819"		AVLP	FBbt_00040043	VFB_00030815	anterior ventrolateral protocerebrum	
+30	"266.753,217.957,62.6127"		PVLP	FBbt_00040042	VFB_00030816	posterior ventrolateral protocerebrum	
+31	"325.226,303.644,62.3676"		IVLP	FBbt_00045027	VFB_00030817	wedge	
+32	"281.379,208.112,85.5676"		PLP	FBbt_00040044	VFB_00030818	posterior lateral protocerebrum	
+33	"286.999,107.381,41.6159"		AOTU	FBbt_00007059	VFB_00030819	anterior optic tubercle	
+34	"386.176,209.564,70.2635"		GOR	FBbt_00040039	VFB_00030820	gorget	
+35	"315.471,128.974,107.743"		MB_CA	FBbt_00007385	VFB_00030821	calyx of adult mushroom body	
+36	"407.149,254.582,87.0251"		SPS	FBbt_00045040	VFB_00030822	superior posterior slope	
+37	"406.488,316.676,88.6236"		IPS	FBbt_00045046	VFB_00030823	inferior posterior slope	
+38	"317.965,124.805,74.9608"		SCL	FBbt_00040048	VFB_00030824	superior clamp	
+39	"357.957,224.399,60.0999"		EPA	FBbt_00040040	VFB_00030825	epaulette	
+40	"440.169,180.541,72.6541"		mALT	FBbt_00003985	VFB_00030826	medial antennal lobe tract	
+41	"226.17,175.082,62.8267"		AOT	FBbt_00100337	VFB_00030827	optic anterior tract	
+42	"312.778,283.092,84.0615"		POC	FBbt_00007427	VFB_00030828	posterior optic commissure	
+43	"403.787,233.636,72.8754"		GC	FBbt_00007080	VFB_00030829	great commissure	
+44	"423.362,475.029,107.587"		labro_frontal_nerve	FBbt_00110653	VFB_00030830	labro frontal nerve	
+46	"371.999,362.557,6.58298"		max_lab_nerve	FBbt_00004043	VFB_00030831	adult maxillary nerve	
+47	"398.168,464.405,34.2172"		GF	FBbt_00004020	VFB_00030832	giant fiber neuron	
+48	"427.228,389.455,57.3077"		SEG	FBbt_00014013	VFB_00030833	adult gnathal ganglion	
+49	"454.792,323.348,23.4184"		PRW	FBbt_00040051	VFB_00030834	prow	
+301	"377.573,164.324,79.0452"	"0,0,44"	mALT	FBbt_00003985		medial antennal lobe tract	
+302	"231.134,163.014,59.4772"	"0,0,123"	AOT	FBbt_00100337		anterior optic tract	
+303	"315.342,282.915,84.5578"	"0,0,255"	POC	FBbt_00007427		posterior optic tract	
+304	"403.326,234.279,72.9831"	"0,70,149"	GC	FBbt_00007080		great commissure	
+305	"305.24,158.089,68.2272"	"0,79,255"	mlALT	FBbt_00003984	VFB_00030853	mediolateral antennal lobe tract	
+306	"289.788,206.89,57.4928"	"0,88,0"	lALT	FBbt_00003983	VFB_00030846	lateral antennal lobe tract	
+307	"283.902,125.615,56.3609"	"0,132,149"	aSLPF	FBbt_00100339	VFB_00030839	anterior superior lateral protocerebrum fascicle	
+308	"450.37,198.084,56.2772"	"0,149,246"	MBDL	FBbt_00003683	VFB_00030852	median bundle	
+309	"431.545,45.6334,81.2502"	"0,185,167"	SFL				
+310	"446.035,108.169,61.2962"	"0,202,255"	IFL				
+311	"364.123,98.233,77.0855"	"0,255,0"	SFS	FBbt_00100349	VFB_00030862	superior fiber system	
+312	"359.651,271.97,57.0568"	"0,255,193"	IFS	FBbt_00100350	VFB_00030844	inferior fiber system	
+313	"427.088,277.514,90.1682"	"9,62,79"	IVLPC	FBbt_00100356	VFB_00030865	wedge commissure	
+314	"374.576,198.076,89.1618"	"9,149,0"	MEF	FBbt_00100342	VFB_00030851	medial equatorial fascicle	
+315	"323.488,208.13,86.682"	"18,167,97"	LEF	FBbt_00100343	VFB_00030848	lateral equatorial fascicle	
+316	"268.394,182.484,46.2075"	"35,35,9"	vVLPF	FBbt_00100341	VFB_00030864	vertical ventrolateral protocerebral fascicle	
+317	"399.449,121.944,61.6778"	"44,0,79"	SEC_sAVLPC	FBbt_00100354	VFB_00030861	superior ellipsoid commissure	
+318	"440.324,205.555,44.356"	"44,97,70"	LALC	FBbt_00007074	VFB_00030845	lateral accessory lobe commissure	
+319	"416.484,370.744,90.9613"	"62,0,26"	pCCF	FBbt_00100344	VFB_00030854	posterior cerebro-cervical fascicle	
+320	"433.916,415.889,96.5987"	"70,255,123"	mCCF	FBbt_00100345	VFB_00030850	medial cerebro-cervical fascicle	
+321	"421.428,413.945,69.0701"	"79,35,0"	aCCF	FBbt_00100346	VFB_00030836	anterior cerebro-cervical fascicle	
+322	"450.124,220.145,42.8145"	"106,0,193"	iALC	FBbt_00100352	VFB_00030843	inferior antennal lobe commissure	
+323	"283.447,161.844,75.1895"	"114,97,62"	PLF	FBbt_00007083	VFB_00030855	posterior lateral fascicle	
+324	"287.82,91.929,69.2617"	"114,97,123"	PYF	FBbt_00100338	VFB_00030858	pyriform fascicle	
+325	"269.072,198.667,62.0887"	"114,246,255"	tVLPF	FBbt_00100340	VFB_00030841	horizontal ventrolateral protocerebral fascicle	 ? t = ?
+326	"328.905,128.996,48.8175"	"123,26,106"	TPT_tubercle_protocerebral_tract				?
+327	"368.889,402.347,67.3408"	"132,114,0"	lCCF	FBbt_00100347	VFB_00030847	lateral cerebro-cervical fascicle	
+328	"393.166,361.756,34.4937"	"132,132,255"	AST	FBbt_00007354	VFB_00030835	antenno-subesophageal tract	
+329	"442.491,246.288,56.0879"	"141,167,123"	sVESC				?
+330	"394.655,133.03,90.9395"	"149,176,185"	sPLPC	FBbt_00007077	VFB_00030863	superior posterior lateral protocerebrum commissure	
+331	"349.246,116.536,55.1361"	"149,211,79"	LDHT_lateral_dorsal_horizontal_tract				?
+332	"425.917,51.5502,43.8069"	"158,0,0"	AOTUC				?
+333	"297.071,109.271,93.6787"	"158,0,53"	LHC_commissure_of_LHs				?
+334	"276.889,113.482,59.0691"	"158,79,70"	LVF_lateral_vertical_fascicle_lat_teth				?
+335	"305.276,196.822,74.9646"	"158,106,185"	tPLPF_transverse_PLP_fascicle				?
+336	"284.868,200.127,41.7269"	"158,193,255"	hVLPF	FBbt_00100340	VFB_00030842	horizontal ventrolateral protocerebral fascicle	
+337	"319.645,261.336,54.066"	"167,88,9"	sAMMCC	FBbt_00100357	VFB_00030859	superior AMMC commissure	
+338	"420.684,237.604,92.449"	"167,246,202"	pPLPC	FBbt_00100355	VFB_00030857	posterior posteriolateral protocerebral commissure	
+339	"314.954,296.91,64.8118"	"176,176,9"	IVLPF				?
+340	"372.908,163.407,80.4034"	"185,79,211"	PVF_posterior_vertical_fascicle_post_vert_tr				
+341	"420.3,378.485,56.6084"	"211,18,255"	iSADC				
+342	"418.576,323.509,60.4437"	"211,79,132"	sSADC				
+343	"433.627,33.5619,55.1881"	"211,167,167"	ADC_ant_dors_com	FBbt_00007072	VFB_00030837	anterior dorsal commissure	
+344	"449.092,133.946,46.7274"	"211,255,0"	MLC				
+345	"452.823,186.311,41.9486"	"237,255,176"	sALC	FBbt_00100351	VFB_00030860	superior antennal lobe commissure	
+346	"389.221,88.2168,62.5398"	"246,18,97"	MIF_medial_intracerebral_fascicle				
+347	"412.946,97.8946,69.2526"	"246,132,9"	pSMPF_smp_psl_teth				
+348	"388.945,77.1688,43.446"	"246,158,220"	tMLF_transverse_ML_fasc				
+349	"444.89,182.781,49.8197"	"255,0,0"	iEBC				
+350	"328.6,202.511,60.6021"	"255,26,185"	VLP-ICLF				
+351	"414.771,77.5828,56.3137"	"255,123,97"	DHF_dors_hor_fasc				
+352	"281.83,99.6813,86.5149"	"255,193,132"	pSLPF_post_lat_teth				
+353	"393.947,390.191,34.2855"	"255,211,0"	vMF_vertical_maxillary_fasc_SOG_max_teth				
+354	"403.622,407.567,44.9954"	"255,255,114"	vLF_vertical_labial_fasc_SOG_lab_teth				
