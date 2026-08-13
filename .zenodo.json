@@ -5,7 +5,8 @@
   "creators": [
     {
       "name": "Court, Robert",
-      "affiliation": "University of Edinburgh"
+      "affiliation": "University of Edinburgh",
+      "orcid": "0000-0002-0173-9080"
     }
   ],
   "description": "<p>The tricolor half-brain template and the BrainName neuropil and fibre-bundle domains painted on it, served on Virtual Fly Brain as adult brain template Ito2014 (VFB_00030786).</p><p>The template is 1024 x 1024 x 135 at 0.32 x 0.32 x 1.41 um, split by channel: cytoplasmic DsRed (red), presynaptic n-syb-GFP (green) and postsynaptic Rdl-HA (blue), driven pan-neuronally with elav-GAL4 (C155). <b>neuropilDomains/</b>, <b>fiberBundleDomains/</b> and <b>individualDomains/</b> hold the synapse-rich neuropils and landmark fibre bundles defined in the Systematic Nomenclature; <b>combinedIndexFiles/</b> holds the Amira label fields; <b>refData/</b> maps index numbers to FlyBase anatomy ontology references.</p><p><b>Provenance and attribution:</b> the confocal series and label fields supplement Ito et al. 2014, and attribution is owed to that paper. <code>readme.txt</code> in the archive reproduces the original authors' notes on acquisition, including their caveat that the presynaptic and especially postsynaptic labelling is not completely specific. This deposit packages and versions that material for reuse.</p>",
