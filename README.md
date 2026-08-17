@@ -10,7 +10,7 @@ Original confocal serial section image data used for the study "A Systematic Nom
 A Systematic Nomenclature for the Insect Brain
 Kei Ito, Kazunori Shinomiya, Masayoshi Ito, J. Douglas Armstrong, George Boyan, Volker Hartenstein, Steffen Harzsch, Martin Heisenberg, Uwe Homberg, Arnim Jenett, Haig Keshishian, Linda L. Restifo, Wolfgang Rossler, Julie H. Simpson, Nicholas J. Strausfeld, Roland Strauss, and Leslie B. Vosshall; Insect Brain Name Working Group
 Neuron 81, 755-765 (2014)
-http://dx.doi.org/10.1016/j.neuron.2013.12.017
+https://doi.org/10.1016/j.neuron.2013.12.017
 
 This archive supplements the above study by providing essential raw image data. It contains the following files:
 
